@@ -1,0 +1,13 @@
+{
+  "name": "guns_blazing_lobby_list",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://git.fhict.nl/I437950/guns_blazing_lobby_list.git",
+  "author": "Patrick van Halm <pvanhalm00@gmail.com>",
+  "type": "module",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1",
+    "redis": "^4.3.1"
+  }
+}
